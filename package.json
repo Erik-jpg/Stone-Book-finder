@@ -25,6 +25,7 @@
   "homepage": "https://github.com/Erik-jpg/Stone-Book-finder#readme",
   "dependencies": {
     "apollo-server": "^3.4.0",
+    "bcrypt": "^5.0.1",
     "graphql": "^15.6.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
