@@ -1,3 +1,5 @@
+# Warning: NPM immer has 2 critical level vulnerabilities.
+Will look for a better solution after boot camp.
 # Stone-Book-finder
 This is a full stack homework 21, transforming a MERN stack into a MARGN(?) Mongodb, Apollo Server, React, Graphql, and Node.js.
 README.md
